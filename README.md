@@ -16,14 +16,17 @@
 ## 🛠 Core Tech Stack
 
 ### 🚀 Frontend
-`React.js` • `Next.js` • `JavaScript` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
+`React.js` • `Next.js` • `JavaScript` • `TypeScript` • `Shadcn UI` • `Material UI` • `Tailwind CSS` • `Bootstrap`
 
 ### ⚙ Backend
 `Node.js` • `Express.js` • `REST APIs` • `JWT`
 
 ### 🗄 Database & Tools
-`MongoDB` • `MySQL` • `Docker`  
+`MongoDB` • `MySQL` • `Firebase` • `Docker`  
 `Git` • `GitHub` • `Postman` • `Vercel`
+
+### 🔗 CMS
+`Wordpress`
 
 ---
 
