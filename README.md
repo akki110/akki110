@@ -38,11 +38,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://www.linkedin.com/in/akshar-patel-b97512240" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:patelakshar2711@gmail.com">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
 </a>
 </p>
