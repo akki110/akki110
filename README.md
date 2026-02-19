@@ -19,10 +19,10 @@
 `React.js` • `Next.js` • `JavaScript` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
 
 ### ⚙ Backend
-`Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `JWT`
+`Node.js` • `Express.js` • `REST APIs` • `JWT`
 
 ### 🗄 Database & Tools
-`PostgreSQL` • `MySQL` • `Redis`  
+`MongoDB` • `MySQL` • `Docker`  
 `Git` • `GitHub` • `Postman` • `Vercel`
 
 ---
