@@ -16,7 +16,7 @@
 ## 🛠 Core Tech Stack
 
 ### 🚀 Frontend
-`React.js` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
+`React.js` • `Next.js` • `JavaScript` • `TypeScript` • `Tailwind CSS` • `Bootstrap`
 
 ### ⚙ Backend
 `Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `JWT`
