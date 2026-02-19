@@ -65,12 +65,6 @@ A modern e-commerce platform using React.js with reusable UI components for prod
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akki110&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akki110&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akki110&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
